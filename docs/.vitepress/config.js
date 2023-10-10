@@ -14,74 +14,63 @@ export default {
 
     sidebar: [
       {
-        // text: "Introduction",
-        items: [{ text: "Introduction", link: "/en/introduction" }],
+        text: "📢 简介",
+        items: [
+          { text: "FILFI简介", link: "/en/introduction" },
+          { text: "参与方式", link: "/en/introduction" },
+          { text: "安全审计", link: "/zh/introduction/audit.md" },
+          { text: "常见问题", link: "/zh/introduction/problems.md" },
+          { text: "FIL教程", link: "/en/introduction" },
+          { text: "路线图", link: "/zh/introduction/roadmap.md" },
+          { text: "联系我们", link: "/en/introduction" },
+        ],
       },
       {
-        text: "Guide",
+        text: "💹 产品逻辑",
         items: [
-          { text: "Getting Started", link: "/en/guide/getting-started" },
-          { text: "Staker", link: "/en/guide/staker" },
-          { text: "Minner", link: "/en/guide/minner" },
           {
-            text: "Storage Provider",
+            text: "系统角色",
             items: [
-              { text: "Getting Started", link: "/en/guide/getting-started-sp" },
-              { text: "Mint Power NFT", link: "/en/guide/nft" },
-              { text: "Collateral & Borrowing", link: "/en/guide/borrow" },
-              { text: "Raising & Minning", link: "/en/guide/raise" },
-              { text: "SP Foundry", link: "/en/guide/foundry" },
-            ],
+              {text: "主办人", link: "/en/developers/contract-address-mainnet"},
+              {text: "SP", link: "/en/developers/contract-address-mainnet"},
+              {text: "建设者", link: "/en/developers/contract-address-mainnet"},
+            ]
           },
           {
-            text: "Interest Model",
-            link: "/en/guide/interest-model",
+            text: "系统功能",
+            items: [
+              {text: "创建募集计划", link: "/en/developers/contract-address-calibration"},
+              {text: "挂载节点", link: "/en/developers/contract-address-calibration"},
+              {text: "建设者质押", link: "/en/developers/contract-address-calibration"},
+            ]
+          },
+        ],
+      },
+
+      {
+        text: "📝 开发者",
+        items: [
+          {text: "系统架构", link: ""},
+          {
+            text: "智能合约",
+            items: [
+              {text: "LetsFilMiner", link:""},
+              {text: "LetsFilController", link:""},
+            ]
           },
           {
-            text: "Liquidity Fund",
-            link: "/en/guide/fund",
+            text: "合约地址",
+            items: [
+              {text: "主网", link:""},
+              {text: "测试网", link:""},
+            ]
           },
           {
-            text: "Supported Wallets",
-            link: "/en/guide/wallets",
-          },
-        ],
-      },
-      {
-        text: "Risk",
-        items: [
-          { text: "Overview", link: "/en/risk/" },
-          { text: "Metrics", link: "/en/risk/metrics" },
-          { text: "Discovery", link: "/en/risk/discovery" },
-          { text: "Liquidation", link: "/en/risk/liquidation" },
-        ],
-      },
-      {
-        text: "Security",
-        items: [
-          { text: "Contract Audits", link: "/en/security/audits" },
-          { text: "Bug Bounties", link: "/en/security/bounty" },
-        ],
-      },
-      {
-        text: "Technical",
-        items: [
-          { text: "Networks", link: "/en/technical/networks" },
-          { text: "Protocol Contracts", link: "/en/technical/contracts" },
-          { text: "Developer Resources", link: "/en/technical/developer" },
-        ],
-      },
-      {
-        text: "FilFi DAO",
-        items: [
-          { text: "Overview", link: "/en/dao/" },
-          { text: "Governance", link: "/en/dao/governance" },
-          { text: "Validator", link: "/en/dao/validator" },
-          { text: "Ambassador", link: "/en/dao/ambassador" },
-          { text: "FFI token", link: "/en/dao/ffi" },
-          { text: "Foundation", link: "/en/dao/foundation" },
-        ],
-      },
+            text: "Bug赏金计划", link: ""
+          }
+        ]
+      }
+
     ],
 
     footer: {
