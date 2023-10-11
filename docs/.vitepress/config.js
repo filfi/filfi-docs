@@ -22,7 +22,7 @@ export default {
           { text: "常见问题", link: "/zh/introduction/problems.md" },
           { text: "FIL教程", link: "/en/introduction" },
           { text: "路线图", link: "/zh/introduction/roadmap.md" },
-          { text: "联系我们", link: "/en/introduction" },
+          { text: "联系我们", link: "/zh/introduction/contact.md" },
         ],
       },
       {
@@ -48,25 +48,26 @@ export default {
       },
 
       {
-        text: "📝 开发者",
+        text: "📖 开发者",
         items: [
-          {text: "系统架构", link: ""},
+          {text: "系统架构", link: "/zh/developers/architecture.md"},
           {
-            text: "智能合约",
+            text: "合约接口", link: "/zh/developers/contract-interface.md",
             items: [
-              {text: "LetsFilMiner", link:""},
-              {text: "LetsFilController", link:""},
+              {text: "通用接口", link: "/zh/developers/interfaces/common.md"},
+              {text: "主办人", link: "/zh/developers/interfaces/raiser.md"},
+              {text: "服务商(SP)", link: "/zh/developers/interfaces/sp.md"},
             ]
           },
           {
             text: "合约地址",
             items: [
-              {text: "主网", link:""},
-              {text: "测试网", link:""},
+              {text: "主网", link:"/zh/developers/address/mainnet.md"},
+              {text: "测试网", link:"/zh/developers/address/calibration.md"},
             ]
           },
           {
-            text: "Bug赏金计划", link: ""
+            text: "Bug赏金计划", link: "/zh/developers/bugBounty.md"
           }
         ]
       }
