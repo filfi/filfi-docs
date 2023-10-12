@@ -96,3 +96,39 @@ function raiserWillReleaseReward(uint256 id) public view returns (uint256)
 ```solidity
 function raiserRewardAvailableLeft(uint256 id) public view returns (uint256)
 ```
+
+## 🔍 `gotRaiserReward`
+
+获取资产包下，发起人已领取的奖励数量
+
+**参数:**
+
+- `key`: 资产包ID
+
+**函数返回:**
+
+| 类型 | 描述 |
+| :-----------: | :-----------: |
+| uint256 | 发起人已领取的奖励数量 |
+
+```solidity
+function gotRaiserReward(uint256 key) public view returns (uint256)
+````
+
+## 🔍 `securityFundRemain`
+
+获取资产包下，发起人保证金剩余数量
+
+**参数:**
+
+- `key`: 资产包ID
+
+**函数返回:**
+
+| 类型 | 描述 |
+| :-----------: | :-----------: |
+| uint256 | 发起人保证金剩余数量 |
+
+```solidity
+function securityFundRemain(uint256 key) public view returns (uint256)
+````

@@ -109,3 +109,93 @@ function spWillReleaseReward(uint256 id) public view returns (uint256)
 ```solidity
 function spRewardAvailableLeft(uint256 id) public view returns (uint256 amountReturn)
 ```
+
+## 🔍 `spFine`
+
+获取资产包下，SP运维过程中，产生的总罚金
+
+**参数:**
+
+- `key`: 资产包ID
+
+**函数返回:**
+
+| 类型 | 描述 |
+| :-----------: | :-----------: |
+| uint256 | 总罚金金额 |
+
+```solidity
+function spFine(uint256 key) public view returns (uint256)
+````
+
+## 🔍 `spRewardLock`
+
+获取资产包下，SP锁定的奖励数量
+
+**参数:**
+
+- `key`: 资产包ID
+
+**函数返回:**
+
+| 类型 | 描述 |
+| :-----------: | :-----------: |
+| uint256 | SP锁定的奖励数量 |
+
+```solidity
+function spRewardLock(uint256 key) public view returns (uint256)
+````
+
+## 🔍 `gotSpReward`
+
+获取资产包下，SP已领取的奖励数量
+
+**参数:**
+
+- `key`: 资产包ID
+
+**函数返回:**
+
+| 类型 | 描述 |
+| :-----------: | :-----------: |
+| uint256 | SP已领取的奖励数量 |
+
+```solidity
+function gotSpReward(uint256 key) public view returns (uint256)
+````
+
+## 🔍 `opsCalcFund`
+
+获取资产包下，SP保证金数量
+
+**参数:**
+
+- `key`: 资产包ID
+
+**函数返回:**
+
+| 类型 | 描述 |
+| :-----------: | :-----------: |
+| uint256 | SP保证金数量 |
+
+```solidity
+function opsCalcFund(uint256 key) public view returns (uint256)
+````
+
+## 🔍 `opsSecurityFundRemain`
+
+获取资产包下，SP保证金剩余数量
+
+**参数:**
+
+- `key`: 资产包ID
+
+**函数返回:**
+
+| 类型 | 描述 |
+| :-----------: | :-----------: |
+| uint256 | SP保证金剩余数量 |
+
+```solidity
+function opsSecurityFundRemain(uint256 key) public view returns (uint256)
+````

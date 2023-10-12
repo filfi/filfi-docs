@@ -52,7 +52,7 @@ export default {
         items: [
           {text: "系统架构", link: "/zh/developers/architecture.md"},
           {
-            text: "合约接口", link: "/zh/developers/contract-interface.md",
+            text: "合约接口", link: "/zh/developers/interfaces/index.md",
             items: [
               {text: "通用接口", link: "/zh/developers/interfaces/common.md"},
               {text: "主办人", link: "/zh/developers/interfaces/raiser.md"},
@@ -60,7 +60,7 @@ export default {
             ]
           },
           {
-            text: "合约地址",
+            text: "合约地址", link: "/zh/developers/address/index.md",
             items: [
               {text: "主网", link:"/zh/developers/address/mainnet.md"},
               {text: "测试网", link:"/zh/developers/address/calibration.md"},

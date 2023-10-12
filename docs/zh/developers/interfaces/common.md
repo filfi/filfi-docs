@@ -175,7 +175,7 @@ function getToolAddr() public pure returns (address tool, address miner, address
 
 **参数:**
 
-- `id`: 资产包ID
+- `key`: 资产包ID
 
 **函数返回:**
 
@@ -184,7 +184,7 @@ function getToolAddr() public pure returns (address tool, address miner, address
 | uint256 | 资产包总收益数量 |
 
 ```solidity
-function totalRewardAmount(uint256 id) public view returns (uint256)
+function totalRewardAmount(uint256 key) public view returns (uint256)
 ```
 
 ## 🔍 `totalReleasedRewardAmount`
@@ -193,7 +193,7 @@ function totalRewardAmount(uint256 id) public view returns (uint256)
 
 **参数:**
 
-- `id`: 资产包ID
+- `key`: 资产包ID
 
 **函数返回:**
 
@@ -202,5 +202,41 @@ function totalRewardAmount(uint256 id) public view returns (uint256)
 | uint256 | 资产包已释放的总收益数量 |
 
 ```solidity
-function totalReleasedRewardAmount(uint256 id) public view returns (uint256)
-```
+function totalReleasedRewardAmount(uint256 key) public view returns (uint256)
+````
+
+## 🔍 `pledgeTotalAmount`
+
+获取资产包募集总量
+
+**参数:**
+
+- `key`: 资产包ID
+
+**函数返回:**
+
+| 类型 | 描述 |
+| :-----------: | :-----------: |
+| uint256 | 资产包募集总量 |
+
+```solidity
+function pledgeTotalAmount(uint256 key) public view returns (uint256)
+````
+
+## 🔍 `gotFilFiReward`
+
+获取当前资产包下，filfi平台领取的奖励数量
+
+**参数:**
+
+- `key`: 资产包ID
+
+**函数返回:**
+
+| 类型 | 描述 |
+| :-----------: | :-----------: |
+| uint256 | 平台领取的奖励数量 |
+
+```solidity
+function gotFilFiReward(uint256 key) public view returns (uint256)
+````
