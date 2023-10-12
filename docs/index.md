@@ -17,7 +17,7 @@ hero:
       link: https://github.com/orgs/filfi
 
 features:
-  - icon: ⚡️
+  - icon: 🚀
     title: Title 1 
     details: detail 1
   - icon: 🛡️
