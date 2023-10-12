@@ -8,8 +8,8 @@ export default {
     socialLinks: [{ icon: "github", link: "https://github.com/filfi" }],
 
     nav: [
-      { text: "Guide", link: "/en/guide/" },
-      { text: "DAO", link: "/en/dao/" },
+      { text: "Guide", link: "/zh/introduction/introduction.md" },
+      // { text: "DAO", link: "/en/dao/" },
     ],
 
     sidebar: [

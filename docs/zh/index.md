@@ -5,6 +5,7 @@ hero:
   name: Filfi
   text: 中文说明
   tagline: tagline
+  color: #2E90FA
   # image:
   #   src: /logo-full.svg
   #   alt: logo name
