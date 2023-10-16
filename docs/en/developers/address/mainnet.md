@@ -1,6 +1,6 @@
 # Mainnet Network Contracts
 
-## Contract Addresses
+## Contract Address
 
 | Contract | Contract Address |
 | :---  |:--- |
@@ -13,7 +13,7 @@
 | **`LetsFilRaiseFactory-logic`** | [0xe6CA8630487c6510ef065628dF18aF88d6f39A8D](https://fvm.starboard.ventures/explorer/address/0xe6CA8630487c6510ef065628dF18aF88d6f39A8D) |
 
 ## Contract Source Code
-| Contract | GitHub Link |
+| Contract | Github Address |
 | :---   |    :----:  |
 | **`LetsFilControler`** | [https://github.com/filfi/letsfil-contracts/blob/main/contracts/LetsFilControler.sol](https://github.com/filfi/letsfil-contracts/blob/main/contracts/LetsFilControler.sol) | 
 | **`LetsFilProcess`** | [https://github.com/filfi/letsfil-contracts/blob/main/contracts/LetsFilProcess.sol](https://github.com/filfi/letsfil-contracts/blob/main/contracts/LetsFilProcess.sol) | 

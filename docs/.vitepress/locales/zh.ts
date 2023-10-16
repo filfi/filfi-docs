@@ -44,7 +44,7 @@ export const themeConfig: DefaultTheme.Config = {
     {
       text: "📖 开发者",
       items: [
-        { text: "系统架构", link: "/zh/developers/architecture" },
+        // { text: "系统架构", link: "/zh/developers/architecture" },
         {
           text: "合约接口",
           link: "/zh/developers/interfaces/index",

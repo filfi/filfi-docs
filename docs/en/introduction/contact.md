@@ -1,5 +1,5 @@
-# Contact Us
-We are very eager to connect with you and hear your thoughts! You can reach us on any of our social media platforms. Whether you have any questions, suggestions, or just want to chat, don't hesitate to get in touch with us as soon as possible.
+# Contact US
+We would love to connect with you and hear your ideas! You can contact us through any of our social media platforms. Whether you have questions, suggestions, or just want to chat, don't hesitate to get in touch with us as soon as possible.
 
 - **Discord**: [Join us on Discord](https://discord.gg/tht348jhuy)
 - **Twitter**: [Follow us on Twitter](https://twitter.com/filfi_io)

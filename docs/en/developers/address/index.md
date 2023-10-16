@@ -1,9 +1,9 @@
-All smart contracts have been open-sourced on [Filfox](https://filfox.info/). To facilitate better understanding and usage of these contracts, we have divided them into two categories: Mainnet and Calibration for testing purposes.
+All smart contracts have been open-sourced on [Filfox](https://filfox.info/). To help developers better understand and use these contracts, we have divided them into two parts: Mainnet and Calibration.
 
 - [Mainnet Address](mainnet.md)
 
 - [Calibration Address](calibration.md)
 
-By open-sourcing our smart contracts, we aim to encourage and promote the development of the Filecoin ecosystem. If you have any questions or suggestions, please feel free to contact us.
+We hope that by open-sourcing our smart contracts, we can encourage and promote the development of the Filecoin ecosystem. If you have any questions or suggestions, please feel free to contact us.
 
-> **Note:** Before using any smart contract, make sure you fully understand its functionality and potential risks.
+> **Note:** Before using any smart contract, please make sure you fully understand how it works and the potential risks.

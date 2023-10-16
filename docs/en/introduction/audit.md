@@ -1,20 +1,20 @@
 # Smart Contract Security Audit
 
-Smart contracts are the core of blockchain projects, and their security is crucial for the protection of assets and data. Auditing provides a crucial security barrier for contracts, aiming to ensure their safety and reliability.
+Smart contracts are the core of blockchain projects, and their security is crucial for assets and data. Auditing provides a key security barrier for contracts, aiming to ensure their safety and reliability.
 
-## Contract Audit Reports
-**The LetsFil Protocol V1.1 smart contract has passed an audit by [Least Authority](https://leastauthority.com/)**
+## Contract Audit Report
+**The LetsFil Protocol V1.1 smart contract has passed the [Least Authority](https://leastauthority.com/) audit**
 > 🔗 [Filfi Audit Report-LeastAuthority.pdf](../../files/Filfi-Audit-Report-LeastAuthority.pdf)
-  
-To further enhance security, we are collaborating with additional audit firms to ensure comprehensive scrutiny of the contract from multiple perspectives.
 
-## Core Value of Smart Contract Audits
+To further enhance security, we are cooperating with more audit institutions to ensure that the contract is thoroughly reviewed from multiple angles.
 
-- **In-depth Examination**: The audit team conducts a thorough analysis of every line of code in the smart contract to ensure the robustness of the code logic and its defense against external threats.
-- **Professional Identification**: Professional audit teams identify and address potential security vulnerabilities, ranging from basic coding errors to complex economic attacks.
-- **Enhanced Trust**: Through third-party professional audits, additional trust and confidence are provided to project stakeholders, particularly users.
+## Core Value of Smart Contract Audit
 
-## Risk Disclosure
+- **Deep Inspection**: The audit team conducts in-depth analysis of every line of the smart contract, ensuring the robustness of the code logic and its defense against external threats.
+- **Professional Identification**: Professional audit teams will identify and fix potential security vulnerabilities, from basic coding errors to complex economic attacks.
+- **Enhanced Trust**: Through third-party professional audits, additional trust and confidence can be provided to the project's stakeholders, especially users.
 
-While the audit process is highly rigorous, we cannot guarantee that audited contracts are 100% risk-free due to the complexity of technology and the constantly evolving methods of attack. Users should always exercise caution and be aware of potential risks.
-We recommend that all users and partners carefully review these reports to understand the security status of the contract.
+## Risk Statement
+
+Although the audit process is extremely strict, due to the complexity of technology and constantly evolving attack methods, we cannot guarantee that audited contracts are 100% risk-free. Users should always be cautious and understand potential risks.
+We recommend all users and partners to carefully read these reports to understand the security status of the contract.

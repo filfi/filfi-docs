@@ -29,7 +29,7 @@
 
 - **Marketing**
   - [ ] Online Advertising
-  - [ ] Partnership Relations
+  - [ ] Partner Relations
   - [ ] User Feedback Collection
 
 ---
@@ -48,6 +48,6 @@
 
 ## ❄️ Q4
 
-- **Review & Planning**
+- **Summary & Planning**
   - [ ] Year-end Summary
-  - [ ] Planning for 2024
+  - [ ] 2024 Planning

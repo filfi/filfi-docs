@@ -1,22 +1,21 @@
 # Solidity API
-
----
+ --- 
 
 ### Modifiers:
 ### onlyManager
-> Manager permission: Push encapsulation progress, rewards, and penalties.
+> Manager permissions: push sealing progress, rewards, penalties
 ```solidity
 modifier onlyManager()
 ```
 
 ### onlyRaiser
-> Organizer permission
+> Raiser permissions
 ```solidity
 modifier onlyRaiser()
 ```
 
 ### onlySp
-> SP (Service Provider) permission
+> SP permissions
 ```solidity
 modifier onlySp()
 ```
@@ -24,9 +23,9 @@ modifier onlySp()
 &nbsp;
 &nbsp;
 &nbsp;
----
+ --- 
 
-### Functions:
+### functions:
 
 ### paySecurityFund
 
@@ -44,7 +43,7 @@ function startRaisePlan(uint256 id) public onlyRaiser
 &nbsp;
 &nbsp;
 &nbsp;
----
+ --- 
 
 ### spSignWithMiner
 
@@ -59,7 +58,7 @@ function payOpsSecurityFund(uint256 id) public payable onlySp
 ```
 
 ### withdrawOpsSecurityFund
-> id: Asset package ID  
+> id: asset package id  
 ```solidity
 function withdrawOpsSecurityFund(uint256 id) public onlySp
 ```
@@ -81,7 +80,8 @@ function spWithdraw(uint256 id) public onlySp
 &nbsp;
 &nbsp;
 &nbsp;
----
+ --- 
+
 
 ### setMinerBackOwner
 
@@ -247,3 +247,4 @@ function willReleaseOf(uint256 id, address addr) public view returns (uint256)
 ```solidity
 function getToolAddr() public pure returns (address tool, address miner, address process, address processSecond)
 ```
+

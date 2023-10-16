@@ -44,7 +44,7 @@ export const themeConfig: DefaultTheme.Config = {
     {
       text: "📖 Developers",
       items: [
-        { text: "System Architecture", link: "/en/developers/architecture" },
+        // { text: "System Architecture", link: "/en/developers/architecture" },
         {
           text: "Contract Interfaces",
           link: "/en/developers/interfaces/index",
