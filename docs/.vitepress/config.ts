@@ -25,7 +25,7 @@ export default defineConfig({
 
   themeConfig: {
     siteTitle: "FilFi Docs",
-    logo: "/logo.svg",
+    // logo: "/logo.svg",
     socialLinks: [
       { icon: "github", link: "https://github.com/filfi" },
       { icon: "discord", link: "https://discord.gg/tht348jhuy" },
