@@ -6,6 +6,7 @@
   "repository": "git@github.com:sxxfuture/filfi-doc.git",
   "author": "Janckerchen <janckerchen@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "private": false,
   "scripts": {
     "docs:dev": "vitepress dev docs",
@@ -13,8 +14,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "vitepress": "^1.0.0-alpha.31",
-    "vue": "^3.2.45"
+    "vitepress": "^1.0.0-rc.22"
   },
   "dependencies": {}
 }

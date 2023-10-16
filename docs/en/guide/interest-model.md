@@ -1,3 +1,0 @@
-# Interest Model
-
-[TODO]

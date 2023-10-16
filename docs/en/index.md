@@ -3,18 +3,18 @@ layout: home
 
 hero:
   name: Filfi
-  # text: 促进Filecoin资产流动性的Defi协议
-  tagline: 促进Filecoin资产流动性的Defi协议
+  # text: A DeFi Protocol for Enhancing Filecoin Asset Liquidity
+  tagline: A DeFi Protocol for Enhancing Filecoin Asset Liquidity
   color: #2E90FA
   # image:
   #   src: /logo-full.svg
   #   alt: logo name
   actions:
     - theme: brand
-      text: 开始
-      link: ./introduction/
+      text: Get Started
+      link: introduction/
     - theme: alt
-      text: 查看 GitHub
+      text: View on GitHub
       link: https://github.com/orgs/filfi
 
 features:

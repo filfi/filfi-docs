@@ -1,3 +1,0 @@
-# Minner
-
-[TODO]

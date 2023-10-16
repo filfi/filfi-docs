@@ -1,3 +1,0 @@
-# FilFi DAO
-
-[TODO]
