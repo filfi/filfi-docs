@@ -4,7 +4,7 @@ Smart contracts are the core of blockchain projects, and their security is cruci
 
 ## Contract Audit Report
 **The LetsFil Protocol V1.1 smart contract has passed the [Least Authority](https://leastauthority.com/) audit**
-> 🔗 [Filfi Audit Report-LeastAuthority.pdf](../../files/Filfi-Audit-Report-LeastAuthority.pdf)
+> 🔗 [Filfi Audit Report-LeastAuthority.pdf](/files/Filfi-Audit-Report-LeastAuthority.pdf)
 
 To further enhance security, we are cooperating with more audit institutions to ensure that the contract is thoroughly reviewed from multiple angles.
 
