@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: Filfi
-  text: 中文说明
-  tagline: tagline
+  # text: 中文说明
+  tagline: 促进Filecoin资产流动性的Defi协议
   color: #2E90FA
   # image:
   #   src: /logo-full.svg
