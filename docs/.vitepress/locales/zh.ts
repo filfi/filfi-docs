@@ -1,7 +1,7 @@
 import type { DefaultTheme } from 'vitepress'
 
 export const themeConfig: DefaultTheme.Config = {
-  siteTitle: "FilFi 文档",
+  siteTitle: "FilFi 文档", 
   nav: [
     { text: "项目介绍", link: "/zh/introduction/" },
     // { text: "DAO", link: "/zh/dao/" },

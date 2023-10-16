@@ -16,16 +16,16 @@ hero:
       text: View on GitHub
       link: https://github.com/orgs/filfi
 
-features:
-  - icon: 🚀
-    title: Title 1 
-    details: detail 1
-  - icon: 🛡️
-    title: Title 2
-    details: detail 2
-  - icon: ❤️
-    title: Title 3
-    details: detail 3
+# features:
+#   - icon: 🚀
+#     title: Title 1 
+#     details: detail 1
+#   - icon: 🛡️
+#     title: Title 2
+#     details: detail 2
+#   - icon: ❤️
+#     title: Title 3
+#     details: detail 3
 ---
 
 <style>
