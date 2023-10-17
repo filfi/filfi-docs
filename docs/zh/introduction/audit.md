@@ -5,7 +5,10 @@
 ## 合约审计报告
 **LetsFil协议V1.1智能合约已经通过了[Least Authority](https://leastauthority.com/)审计**
 > 🔗 [Filfi Audit Report-LeastAuthority.pdf](/files/Filfi-Audit-Report-LeastAuthority.pdf)
-  
+ 
+**审计报告已在Least网站进行公示**  
+> 🔗 [Least Audit Report](https://leastauthority.com/blog/audits/audit-of-filfi-smart-contracts/)
+
 为了进一步加强安全性，我们正在与更多的审计机构合作，确保合约从多个角度得到全面的审查。
 
 ## 智能合约审计的核心价值
