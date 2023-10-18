@@ -49,7 +49,7 @@ Since rewards and pledged coins are stored in smart contracts, if the FILFI webs
 ### Necessary conditions:
 
 - **Contract address**: Can be found on each fundraising plan page.
-- **Contract source code**: Currently under audit and will be open source soon.
+- **Contract source code**: [GitHub](https://github.com/filfi/letsfil-contracts/blob/main/contracts/LetsFilControler.sol)
 - **Private key of the invested wallet**
 
 With the contract address and contract source code, you can use **Remix** to call the contract's withdrawal method and retrieve your assets.

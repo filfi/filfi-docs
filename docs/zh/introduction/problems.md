@@ -51,7 +51,7 @@
 ### 必要条件：
 
 - **合约地址**：可以在募集计划的每个页面中找到。
-- **合约源码**：目前正在审计，并即将开源。
+- **合约源码**：[GitHub](https://github.com/filfi/letsfil-contracts/blob/main/contracts/LetsFilControler.sol)
 - **投资的钱包私钥**
 
 有了合约地址和合约源码后，您可以使用 **Remix** 来调用合约的提币方法并取回您的资产。

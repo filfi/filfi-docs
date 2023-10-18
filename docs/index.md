@@ -3,15 +3,15 @@ layout: home
 
 hero:
   name: Filfi
-  text: text
-  tagline: tagline
+  # text: 中文说明
+  tagline: 促进Filecoin资产流动性的Defi协议
   # image:
   #   src: /logo-full.svg
   #   alt: logo name
   actions:
     - theme: brand
       text: Get Started
-      link: /introduction
+      link: /en/introduction/
     - theme: alt
       text: View on GitHub
       link: https://github.com/orgs/filfi
