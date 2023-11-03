@@ -13,7 +13,15 @@ export const themeConfig: DefaultTheme.Config = {
         { text: "FILFI简介", link: "/zh/introduction/" },
         // { text: "参与方式", link: "/en/introduction" },
         { text: "安全审计", link: "/zh/introduction/audit" },
-        { text: "常见问题", link: "/zh/introduction/problems" },
+        { 
+          text: "常见问题", 
+          items: [
+            {
+              "text": "资产安全方案",
+              "link": "/zh/problems/emergency.md"
+            }
+          ],
+          link: "/zh/problems/problems" },
         // { text: "FIL教程", link: "/en/introduction" },
         // { text: "路线图", link: "/zh/introduction/roadmap" },
         { text: "联系我们", link: "/zh/introduction/contact" },

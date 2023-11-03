@@ -13,7 +13,16 @@ export const themeConfig: DefaultTheme.Config = {
         { text: "FILFI Introduction", link: "/en/introduction/" },
         // { text: "Participation Method", link: "/en/introduction" },
         { text: "Security Audit", link: "/en/introduction/audit" },
-        { text: "FAQ", link: "/en/introduction/problems" },
+        { 
+          text: "FAQ", 
+          items: [
+            {
+              "text": "Asset Security Program",
+              "link": "/en/problems/emergency.md"
+            }
+          ],
+          link: "/en/problems/problems" 
+        },
         // { text: "FIL Tutorials", link: "/en/introduction" },
         // { text: "Roadmap", link: "/en/introduction/roadmap" },
         { text: "Contact Us", link: "/en/introduction/contact" },
