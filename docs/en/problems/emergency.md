@@ -45,7 +45,7 @@ Anybody can perform the pull operation, and it only needs to be performed once. 
 
 ### Operation steps
 
-1. Open the push method: Open the blockchain browser Filfox, enter the following address in the search box in the upper right corner: 0x3670f9b8d1AAC971fEa76526C92d6155682a01Bf
+1. Open the push method: Open the blockchain browser [Filfox](https://filfox.info/zh), enter the following address in the search box in the upper right corner: 0x3670f9b8d1AAC971fEa76526C92d6155682a01Bf
 
     ![Image](/files/filfox_header.png)
 
@@ -63,13 +63,13 @@ To withdraw pledged coins, you need to interact with the smart contract. For thi
 
 ### Operation steps:
 
-1. Open Remix IDE
+1. Open [Remix IDE](https://remix.ethereum.org/)
 
     ![Image](/files/remix_first.png)
 
 2. Prepare source code, contract address, fundraising plan ID
 
-    Source code: [GitHub](https://remix.ethereum.org/)
+    Source code: [GitHub](https://github.com/filfi/letsfil-contracts/blob/main/contracts/LetsFilControler.sol)
 
     Contract address:
 

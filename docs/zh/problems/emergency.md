@@ -45,7 +45,7 @@
 
 ### 操作步骤
 
-1. 打开推送方法：打开区块链浏览器Filfox，在右上角搜索框输入以下地址：0x3670f9b8d1AAC971fEa76526C92d6155682a01Bf
+1. 打开推送方法：打开区块链浏览器[Filfox](https://filfox.info/zh)，在右上角搜索框输入以下地址：0x3670f9b8d1AAC971fEa76526C92d6155682a01Bf
 
     ![图片](/files/filfox_header.png)
 
@@ -63,13 +63,13 @@
 
 ### 操作步骤：
 
-1. 打开Remix IDE
+1. 打开[Remix IDE](https://remix.ethereum.org/)
 
     ![图片](/files/remix_first.png)
 
 2. 准备好源码、合约地址、募集计划ID
 
-    源码：[GitHub](https://remix.ethereum.org/)
+    源码：[GitHub](https://github.com/filfi/letsfil-contracts/blob/main/contracts/LetsFilControler.sol)
 
     合约地址：
 
